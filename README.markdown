@@ -1,3 +1,11 @@
+# STILL IN USE
+
+```
+$ ack "3dna/geokit-rails"
+nbuild/Gemfile
+139:gem 'geokit-rails'#,                                                                 git: 'git@github.com:3dna/geokit-rails3.git', ref: '622410b8bb77a7527e5309a0754cd6b4ed58d6c8'
+```
+
 ## INSTALLATION
   
 Geokit consists of a Gem ([geokit-gem](http://github.com/andre/geokit-gem/tree/master)) and a Rails plugin ([geokit-rails](http://github.com/andre/geokit-rails/tree/master)).
